@@ -1,0 +1,15 @@
+sun
+20
+/
+earth
+10
+sun
+200
+moon
+5
+earth
+100
+mars
+20
+sun
+400
