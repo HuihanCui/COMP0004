@@ -1,0 +1,4 @@
+Hi, welcome to test2
+this test is used to test
+if strings on different lines 
+is ok for the program
